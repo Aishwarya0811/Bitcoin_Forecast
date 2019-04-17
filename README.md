@@ -26,7 +26,7 @@ Cov(εt, εt-1) ≠ 0
 
 4. Plot the series.
 
-5. Use a regression to Önd spurious correlations to the bitcoin price in the data set (e.g., regress the bitcoin price on the other series without any di§erencing to see if you Önd any interesting but total bullshit relationships).
+5. Use a regression to Önd spurious correlations to the bitcoin price in the data set (e.g., regress the bitcoin price on the other series without any di§erencing to see if you Önd any interesting relationship).
 
 6. Use the KPSS test to Önd how many di§erences each series takes to become stationary.
 
